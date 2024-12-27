@@ -21,13 +21,13 @@ inverse reinforcement learning (IRL) to find the reward function and the policy(
 ## Files and Code Structure
 
 - **Neural Network Training**:
-  - The code for training the Conv1D neural network is located in the `-- file`.
+  - The code for training the Conv1D neural network is located in the `convo_training file`.
 
 - **Reinforcement Learning Training**:
-  - The RL training process, including imitation learning and policy optimization, is implemented in `-- file`.
+  - The RL training process, including imitation learning and policy optimization, is implemented in `apprenticeship learning file`.
 
 - **Final System Integration**:
-  - The final combined system integrating prediction and resource allocation is found in `-- file` in which I have used fastapi to make prediction endpoints .
+  - The final combined system integrating prediction and resource allocation is found in `final_combine file` in which I have used fastapi to make prediction endpoints .
 
 ## Example Data
 
