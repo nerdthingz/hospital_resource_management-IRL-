@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+joblib
+stable_baselines3
+gymnasium
+fastapi
+scipy
